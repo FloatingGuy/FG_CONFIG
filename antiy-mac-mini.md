@@ -6,12 +6,12 @@
 * 印象笔记
 * QQ音乐
 * Xmind
-* 
+ 
 
 ###不能共享配置的工具 
 1.Sublime Text 
     
-> 
+    
 > 插件
 
     * Package Control
