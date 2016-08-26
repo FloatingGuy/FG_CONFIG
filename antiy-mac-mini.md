@@ -15,7 +15,7 @@
 > 插件
 
     * Package Control
-    * File Head
+    * File Header
     * CTags
     * Markdown Editing
     * Markdown Preview
@@ -56,6 +56,18 @@
 { "keys": ["super+left"], "command": "prev_view" },
 { "keys": ["super+right"], "command": "next_view" },
 { "keys": ["super+t"], "command": "new_file" },
+```
+
+> File Header模板配置
+    /Preferences/Package Settings/File Header/Settings-User
+
+```
+{
+    "Default": {
+        "email": "xxxx@qq.cn",
+        "author": "xxxx"
+    }
+}
 ```
 
 ###管理类
