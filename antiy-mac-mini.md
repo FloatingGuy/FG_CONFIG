@@ -20,7 +20,7 @@
     * Markdown Editing
     * Markdown Preview
     * Vintageous
-    * Anaconda
+    * Anaconda      代码分析平台，代码规范检查
     * SideBarEnhancements 
 
 > 全局配置（user）
