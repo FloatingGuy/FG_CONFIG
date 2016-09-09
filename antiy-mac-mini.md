@@ -6,12 +6,12 @@
 * 印象笔记
 * QQ音乐
 * Xmind
- 
 
-###不能共享配置的工具 
-1.Sublime Text 
-    
-    
+
+###不能共享配置的工具
+1.Sublime Text
+
+
 > 插件
 
     * Package Control
@@ -21,7 +21,8 @@
     * Markdown Preview
     * Vintageous
     * Anaconda      代码分析平台，代码规范检查
-    * SideBarEnhancements 
+    * SideBarEnhancements
+    * TrailingSpaces   自动删除空格/显示空格
 
 > 全局配置（user）
     /Preferences/Settings-User
@@ -45,7 +46,7 @@
     "vintageous_use_ctrl_keys": true, //# 这样 ST 里的 Vim 就支持 Ctrl + v 列选了.
     "vintageous_use_sys_clipboard": true, //# 让 Vim 与系统公用剪切板
     "word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?" // # 去掉了 "-"
-} 
+}
 ```
 [Mac OS X 上 Sublime Text 3 的配置][blog1]
 
@@ -56,6 +57,8 @@
 { "keys": ["super+left"], "command": "prev_view" },
 { "keys": ["super+right"], "command": "next_view" },
 { "keys": ["super+t"], "command": "new_file" },
+{ "keys": ["ctrl+alt+d"], "command": "delete_trailing_spaces" },
+{ "keys": ["ctrl+alt+o"], "command": "toggle_trailing_spaces"}
 ```
 
 > File Header模板配置
@@ -76,13 +79,13 @@
 ###工具类
 3. Pd
 4. wine
-5. 迅雷 
-6. Dash 
-7. Unclutter 
-8. synergy Gliffy 
-9. Digrams 
-10. Snagit 
-11. Beyond 
+5. 迅雷
+6. Dash
+7. Unclutter
+8. synergy Gliffy
+9. Digrams
+10. Snagit
+11. Beyond
 12. 010Edit
 
 ###阅读类
